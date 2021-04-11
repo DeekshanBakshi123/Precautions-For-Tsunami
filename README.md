@@ -1,6 +1,5 @@
-# Precautions For Tsunami
 
-Tsunamis
+Tsunami
 
 
 
